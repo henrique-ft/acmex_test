@@ -1,6 +1,6 @@
 # acmex-test
 
-- instalar elixir
+- instalar *Elixir*
 
 - baixar as dependências (na raiz do projeto): `mix deps.get`
 
