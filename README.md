@@ -8,6 +8,8 @@
 
 ### Dentro do iex
 
+`Discovery.test`
+
 `order = Acmex.new_order(["seudomínio.com"])`
 
 `{:ok, order} = order`
